@@ -1,7 +1,3 @@
-Here's your content converted into a polished `README.md` file format with appropriate markdown structure, added clarity, and light technical enhancements where needed:
-
----
-
 # Java ORM Framework
 
 ## Overview
