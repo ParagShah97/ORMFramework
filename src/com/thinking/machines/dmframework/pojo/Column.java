@@ -130,8 +130,8 @@ public class Column implements java.io.Serializable, Comparable<Column> {
         return this.type;
     }
 
-    public void setTable(Table table) {
-        this.table = table;
+    public void setTable(com.thinking.machines.dmframework.pojo.Table table2) {
+        this.table = table2;
     }
 
     public Table getTable() {
