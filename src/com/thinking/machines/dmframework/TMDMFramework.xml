@@ -1,0 +1,5 @@
+ <database architecture="MySQL" connectionString="jdbc:mysql://localhost:3306/dbname" username="root" password="root" driver="com.mysql.jdbc.Driver" />
+ <entity class="com.thinking.machines.evm.dl.MachineConnector" />
+ <entity class="com.thinking.machines.evm.dl.Machine" />
+ <entity class="com.thinking.machines.evm.dl.ConnectorType" />
+ <entity class="com.thinking.machines.evm.dl.CurrentType" />
