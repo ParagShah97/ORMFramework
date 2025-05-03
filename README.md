@@ -275,7 +275,3 @@ This validator system improves correctness, reduces database-side errors, and en
 
 
 ---
-
-## 🤝 Acknowledgements
-
-Special thanks to **@ThinkingMachines** for mentorship and project guidance.
